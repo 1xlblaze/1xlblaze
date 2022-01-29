@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1xlblaze
+- 👋 Hi, I’m @1xlblaze( Mayank Saxena)
 - 👀 I’m interested in Machine learning, Deep Learning, Data Science, Artificial Intelligence, Web Development using Django and Competitive Programming.
 - 🌱 I’m currently revising Operating System, DataBase Management Systems, Theory of Computation and Computer Networks.
 - 💞️ I’m looking to collaborate on any projects related to Computer Science.
