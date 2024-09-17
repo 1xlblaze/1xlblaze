@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @1xlblaze( Mayank Saxena)
-- 👀 I’m interested in Machine learning, Deep Learning, Data Science, Artificial Intelligence, Web Development using Django and Competitive Programming.
-- 🌱 I’m currently revising Operating System, DataBase Management Systems, Theory of Computation and Computer Networks.
-- 💞️ I’m looking to collaborate on any projects related to Computer Science.
+👋 Hi, I’m @1xlblaze (Mayank Saxena), a Software Engineer specializing in scalable system development, cloud infrastructure management, and API development with optimization.
+👀 I’m interested in SDE positions where I can apply my expertise in technologies such as Go, Docker, Kubernetes, Kafka, PostgreSQL and more.
+💡 I’ve scaled systems to handle over 55 million hits per week, optimized API response times by 44%, and reduced infrastructure costs by 35%. I’m always open to collaborating on impactful software development projects.
+📫 Feel free to reach me at Mayankidmsaxena@gmail.com.
 - 📫 Email me at Mayankidmsaxena@gmail.com to reach me.
 
 <!---
