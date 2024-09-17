@@ -1,7 +1,6 @@
-👋 Hi, I’m @1xlblaze (Mayank Saxena), a Software Engineer specializing in scalable system development, cloud infrastructure management, and API development with optimization.
-👀 I’m interested in SDE positions where I can apply my expertise in technologies such as Go, Docker, Kubernetes, Kafka, PostgreSQL and more.
-💡 I’ve scaled systems to handle over 55 million hits per week, optimized API response times by 44%, and reduced infrastructure costs by 35%. I’m always open to collaborating on impactful software development projects.
-📫 Feel free to reach me at Mayankidmsaxena@gmail.com.
+- 👋 Hi, I’m @1xlblaze (Mayank Saxena), a Software Engineer specializing in scalable system development, cloud infrastructure management, and API development with optimization.
+- 👀 I’m interested in SDE positions where I can apply my expertise in technologies such as Go, Docker, Kubernetes, Kafka, PostgreSQL and more.
+- 💡 I’ve scaled systems to handle over 55 million hits per week, optimized API response times by 44%, and reduced infrastructure costs by 35%. I’m always open to collaborating on impactful software development projects.
 - 📫 Email me at Mayankidmsaxena@gmail.com to reach me.
 
 <!---
