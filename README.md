@@ -10,7 +10,7 @@ I build real-time FinTech and marketplace backends with **Go**, **Python**, **Ka
 - Cloud agents: **MCP**, **AWS Strands**, **Cursor**, **LangGraph**
 
 **Links**
-- Portfolio: [1xlblaze.github.io/themayanksaxena](https://1xlblaze.github.io/themayanksaxena)
+- Portfolio: [1xlblaze.github.io/mayank-saxena.github.io](https://1xlblaze.github.io/mayank-saxena.github.io/)
 - LinkedIn: [linkedin.com/in/themayanksaxena](https://linkedin.com/in/themayanksaxena)
 - Email: mayankidmsaxena@gmail.com
 
